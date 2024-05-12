@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Taylor Fergus @TaylorFergML
+- 👀 I’m interested in starting a career in data analytics or data science
+- 🌱 I’m currently learning more R, python, and machine learning
+- 📫 How to reach me @ taylor.fergus@gmx.com or https://www.linkedin.com/in/taylor-fergus-76214495/
